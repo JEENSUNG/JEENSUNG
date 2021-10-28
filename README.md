@@ -2,6 +2,12 @@
 
 <!--
 **JEENSUNG/JEENSUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jeen0112/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/jeen0112/github-readme-stats)
+
+
+
+
 
 Here are some ideas to get you started:
 
