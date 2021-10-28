@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeen0112)](https://solved.ac/jeen0112/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeen0112)](https://github.com/jeen0112/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEENSUNG)](https://github.com/JEENSUNG/github-readme-stats)
 
 
 
