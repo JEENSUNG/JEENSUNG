@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJEENSUNG&count_bg=%23DE0EE5&title_bg=%23555555&icon=worldhealthorganization.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeen0112)](https://solved.ac/jeen0112)
 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://codingrapper.tistory.com)
