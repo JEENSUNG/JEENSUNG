@@ -1,5 +1,4 @@
-### [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://codingrapper.tistory.com)  
-### ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJEENSUNG&count_bg=%23C214E0&title_bg=%23555555&icon=worldhealthorganization.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+### [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://codingrapper.tistory.com)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJEENSUNG&count_bg=%23C214E0&title_bg=%23555555&icon=worldhealthorganization.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ### [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeen0112)](https://solved.ac/jeen0112)
 
