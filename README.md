@@ -4,7 +4,7 @@
 
 ### ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEENSUNG&show_icons=true&theme=dracula)
 
-- my blog site : https://codingrapper.tistory.com/
+- my blog link : https://codingrapper.tistory.com/
 - 🔭 I’m currently working on ... SpringBoot,, DB, OS, Network, Computing Science, Algorithm
 - 🌱 I’m currently learning ... upper's too same
 - 🤔 I’m looking for help with ... all of Web Develop
