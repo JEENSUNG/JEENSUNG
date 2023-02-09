@@ -4,8 +4,9 @@
 
 ### ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEENSUNG&show_icons=true&theme=dracula)
 
-
-- 🔭 I’m currently working on ... SpringBoot 2.7.5, DB, OS, Network, Computing Science, Algorithm
+- my notion site : https://www.notion.so/9fd556f98231436f8788a148ad64501e?v=8cb98fe4760a4e33b8e4282496659bb2
+- my blog site : https://codingrapper.tistory.com/
+- 🔭 I’m currently working on ... SpringBoot,, DB, OS, Network, Computing Science, Algorithm
 - 🌱 I’m currently learning ... upper's too same
 - 🤔 I’m looking for help with ... all of Web Develop
 - 📫 How to reach me: ... heee1219@naver.com
